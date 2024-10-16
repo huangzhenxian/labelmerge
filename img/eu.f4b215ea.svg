@@ -1,0 +1,11 @@
+<svg width="105" height="40"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- 绘制边框和分隔线 -->
+    <rect x="0" y="0" width="45" height="40" stroke="black" fill="none" stroke-width="2" />
+    <rect x="45" y="0" width="60" height="40" stroke="black" fill="none" stroke-width="2" />
+
+    <!-- EC 文本 -->
+    <text x="7" y="28" font-family="Arial" font-size="24" font-weight="bold" fill="black">EC</text>
+    <!-- REP 文本 -->
+    <text x="50" y="28" font-family="Arial" font-size="24" font-weight="bold" fill="black">REP</text>
+</svg>
